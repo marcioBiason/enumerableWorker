@@ -1,0 +1,11 @@
+C:\ProjetoGit\Enumerable\Enumerable\bin\Debug\netcoreapp2.1\Enumerable.deps.json
+C:\ProjetoGit\Enumerable\Enumerable\bin\Debug\netcoreapp2.1\Enumerable.runtimeconfig.json
+C:\ProjetoGit\Enumerable\Enumerable\bin\Debug\netcoreapp2.1\Enumerable.runtimeconfig.dev.json
+C:\ProjetoGit\Enumerable\Enumerable\bin\Debug\netcoreapp2.1\Enumerable.dll
+C:\ProjetoGit\Enumerable\Enumerable\bin\Debug\netcoreapp2.1\Enumerable.pdb
+C:\ProjetoGit\Enumerable\Enumerable\obj\Debug\netcoreapp2.1\Enumerable.csprojAssemblyReference.cache
+C:\ProjetoGit\Enumerable\Enumerable\obj\Debug\netcoreapp2.1\Enumerable.csproj.CoreCompileInputs.cache
+C:\ProjetoGit\Enumerable\Enumerable\obj\Debug\netcoreapp2.1\Enumerable.AssemblyInfoInputs.cache
+C:\ProjetoGit\Enumerable\Enumerable\obj\Debug\netcoreapp2.1\Enumerable.AssemblyInfo.cs
+C:\ProjetoGit\Enumerable\Enumerable\obj\Debug\netcoreapp2.1\Enumerable.dll
+C:\ProjetoGit\Enumerable\Enumerable\obj\Debug\netcoreapp2.1\Enumerable.pdb
